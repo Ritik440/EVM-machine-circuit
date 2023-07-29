@@ -19,3 +19,8 @@ The output of all comparator is given to logic gates which drive and display the
 <div align="center">
 <img src="BCD converter.png" alt="Loading..." width="300" height="400">
 </div>
+<hr>
+A button dissabling circuit is implemented to dissable the button for some time after pressing any input button.
+<div align="center">
+<img src="Dissable circuit.png" alt="Loading..." width="400" height="600">
+</div>
